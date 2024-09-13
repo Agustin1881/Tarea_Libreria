@@ -1,0 +1,14 @@
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\bin\Debug\net8.0\Tarea_Libreria.exe
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\bin\Debug\net8.0\Tarea_Libreria.deps.json
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\bin\Debug\net8.0\Tarea_Libreria.runtimeconfig.json
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\bin\Debug\net8.0\Tarea_Libreria.dll
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\bin\Debug\net8.0\Tarea_Libreria.pdb
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.AssemblyInfoInputs.cache
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.AssemblyInfo.cs
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.dll
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\refint\Tarea_Libreria.dll
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.pdb
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\Tarea_Libreria.genruntimeconfig.cache
+C:\Users\CABRERA\source\repos\Tarea_Libreria\Tarea_Libreria\obj\Debug\net8.0\ref\Tarea_Libreria.dll
